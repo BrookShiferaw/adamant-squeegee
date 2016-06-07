@@ -1,0 +1,6 @@
+downbox,targettest,corrAns,upbox,rightbox,leftbox,task1.thisRepN,task1.thisTrialN,task1.thisN,task1.thisIndex,start.keys,start.rt,answer1.keys,answer1.corr,answer1.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,return,0.932173013687,,,,2015_Dec_21_1153,59.8136129567,task,001,,
+blue,blue,up,green,yellow,red,0,0,0,33,,,down,0,3.17718195915,2015_Dec_21_1153,59.8136129567,task,001,,
+blue,green,down,green,red,yellow,0,1,1,2,,,down,1,1.97635197639,2015_Dec_21_1153,59.8136129567,task,001,,
+yellow,blue,left,red,blue,green,0,2,2,22,,,left,1,11.0136549473,2015_Dec_21_1153,59.8136129567,task,001,,
+red,yellow,right,green,blue,yellow,0,3,3,42,,,left,0,69.6797471046,2015_Dec_21_1153,59.8136129567,task,001,,

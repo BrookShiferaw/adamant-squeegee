@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>data</string>
+		<string>pilot_data</string>
+		<string>saccades</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>01_baseline.csv</string>
+		</array>
+		<array>
+			<string>all_saccades.csv</string>
+		</array>
+		<array>
+			<string>lastRun.log</string>
+		</array>
+	</array>
+</dict>
+</plist>

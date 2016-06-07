@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>_task_2015_Dec_21_1152.csv</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1152.log</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1153.csv</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1153.log</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1153_1.csv</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1153_2.csv</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1156.csv</string>
+		</array>
+		<array>
+			<string>_task_2015_Dec_21_1156.log</string>
+		</array>
+		<array>
+			<string>t_task_2016_Jan_06_1409.csv</string>
+		</array>
+		<array>
+			<string>t_task_2016_Jan_06_1409.log</string>
+		</array>
+		<array>
+			<string>test_task_2016_Jan_06_1409.csv</string>
+		</array>
+		<array>
+			<string>test_task_2016_Jan_06_1409.log</string>
+		</array>
+	</array>
+</dict>
+</plist>

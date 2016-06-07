@@ -1,0 +1,408 @@
+0.3005 	WARNING 	Movie2 stim could not be imported and won't be available
+2.1147 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0xf8e2300>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.1147 	EXP 	window1: recordFrameIntervals = False
+2.2794 	EXP 	window1: recordFrameIntervals = True
+2.4630 	EXP 	window1: recordFrameIntervals = False
+2.6345 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+2.6827 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+2.6830 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-1.5,  1.5],
+       [ 1.5,  1.5],
+       [ 1.5, -1.5],
+       [-1.5, -1.5]])
+2.6843 	EXP 	Created targetcontainer = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetcontainer', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6846 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.6868 	EXP 	Created upcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-1.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue', opacity=1.0, ori=array(0.0), pos=array([ 0.,  1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6871 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.6892 	EXP 	Created downcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue', opacity=1.0, ori=array(0.0), pos=array([ 0., -1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6895 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.6916 	EXP 	Created leftcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue', opacity=1.0, ori=array(0.0), pos=array([-1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6920 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.6941 	EXP 	Created rightcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue', opacity=1.0, ori=array(0.0), pos=array([ 1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6944 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.6965 	EXP 	Created targetbox = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6969 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-10.5,  10.5],
+       [ 10.5,  10.5],
+       [ 10.5, -10.5],
+       [-10.5, -10.5]])
+2.6981 	EXP 	Created targetframe = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetframe', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.6985 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7006 	EXP 	Created targetbox2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7010 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7031 	EXP 	Created upcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue2', opacity=1.0, ori=array(0.0), pos=array([  0.,  10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7034 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7055 	EXP 	Created downcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue2', opacity=1.0, ori=array(0.0), pos=array([  0., -10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7058 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7079 	EXP 	Created leftcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue2', opacity=1.0, ori=array(0.0), pos=array([-10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7082 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x2a7a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7103 	EXP 	Created rightcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-6.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue2', opacity=1.0, ori=array(0.0), pos=array([ 10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7295 	EXP 	instruction: autoDraw = True
+3.2644 	DATA 	Keypress: return
+3.2834 	EXP 	Imported trail1.xlsx as conditions, 48 conditions, 6 params
+3.2838 	EXP 	Created sequence: fullRandom, trialTypes=48, nReps=1, seed=None
+3.3560 	EXP 	New trial (rep=0, index=0): {u'downbox': u'yellow', u'targettest': u'yellow', u'corrAns': u'up', u'upbox': u'green', u'rightbox': u'red', u'leftbox': u'blue'}
+3.3637 	EXP 	instruction: autoDraw = False
+3.3637 	EXP 	upcue: lineColor = u'green (named)'
+3.3637 	EXP 	upcue: fillColor = u'green (named)'
+3.3637 	EXP 	downcue: lineColor = u'yellow (named)'
+3.3637 	EXP 	downcue: fillColor = u'yellow (named)'
+3.3637 	EXP 	leftcue: lineColor = u'blue (named)'
+3.3637 	EXP 	leftcue: fillColor = u'blue (named)'
+3.3637 	EXP 	rightcue: lineColor = u'red (named)'
+3.3637 	EXP 	rightcue: fillColor = u'red (named)'
+3.3637 	EXP 	targetbox: lineColor = u'yellow (named)'
+3.3637 	EXP 	targetbox: fillColor = u'yellow (named)'
+3.3637 	EXP 	targetcontainer: autoDraw = True
+3.8800 	EXP 	upcue: autoDraw = True
+3.8800 	EXP 	downcue: autoDraw = True
+3.8800 	EXP 	leftcue: autoDraw = True
+3.8800 	EXP 	rightcue: autoDraw = True
+4.8640 	EXP 	upcue: autoDraw = False
+4.8640 	EXP 	downcue: autoDraw = False
+4.8640 	EXP 	leftcue: autoDraw = False
+4.8640 	EXP 	rightcue: autoDraw = False
+4.8641 	EXP 	window1: recordFrameIntervals = False
+4.8808 	EXP 	window1: recordFrameIntervals = False
+6.8993 	EXP 	targetbox: autoDraw = True
+7.6258 	DATA 	Keypress: escape
+0.2966 	WARNING 	Movie2 stim could not be imported and won't be available
+2.1827 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0xf905300>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.1827 	EXP 	window1: recordFrameIntervals = False
+2.3480 	EXP 	window1: recordFrameIntervals = True
+2.5317 	EXP 	window1: recordFrameIntervals = False
+2.7034 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+2.7520 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+2.7524 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-1.5,  1.5],
+       [ 1.5,  1.5],
+       [ 1.5, -1.5],
+       [-1.5, -1.5]])
+2.7537 	EXP 	Created targetcontainer = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetcontainer', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7540 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7562 	EXP 	Created upcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-1.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue', opacity=1.0, ori=array(0.0), pos=array([ 0.,  1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7565 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7586 	EXP 	Created downcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue', opacity=1.0, ori=array(0.0), pos=array([ 0., -1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7590 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7611 	EXP 	Created leftcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue', opacity=1.0, ori=array(0.0), pos=array([-1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7614 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7636 	EXP 	Created rightcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue', opacity=1.0, ori=array(0.0), pos=array([ 1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7640 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7660 	EXP 	Created targetbox = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7664 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-10.5,  10.5],
+       [ 10.5,  10.5],
+       [ 10.5, -10.5],
+       [-10.5, -10.5]])
+2.7678 	EXP 	Created targetframe = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetframe', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7682 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7704 	EXP 	Created targetbox2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7707 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7728 	EXP 	Created upcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue2', opacity=1.0, ori=array(0.0), pos=array([  0.,  10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7732 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7753 	EXP 	Created downcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue2', opacity=1.0, ori=array(0.0), pos=array([  0., -10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7756 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7777 	EXP 	Created leftcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue2', opacity=1.0, ori=array(0.0), pos=array([-10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7781 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+2.7802 	EXP 	Created rightcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-6.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue2', opacity=1.0, ori=array(0.0), pos=array([ 10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+2.7981 	EXP 	instruction: autoDraw = True
+3.0656 	DATA 	Keypress: return
+3.0831 	EXP 	Imported trail1.xlsx as conditions, 48 conditions, 6 params
+3.0836 	EXP 	Created sequence: fullRandom, trialTypes=48, nReps=1, seed=None
+3.1560 	EXP 	New trial (rep=0, index=0): {u'downbox': u'yellow', u'targettest': u'red', u'corrAns': u'right', u'upbox': u'green', u'rightbox': u'blue', u'leftbox': u'red'}
+3.1655 	EXP 	instruction: autoDraw = False
+3.1655 	EXP 	targetbox2: fillColor = u'red (named)'
+3.1655 	EXP 	targetbox2: lineColor = u'red (named)'
+3.1655 	EXP 	upcue2: fillColor = u'green (named)'
+3.1655 	EXP 	upcue2: lineColor = u'green (named)'
+3.1655 	EXP 	downcue2: fillColor = u'yellow (named)'
+3.1655 	EXP 	downcue2: lineColor = u'yellow (named)'
+3.1655 	EXP 	leftcue2: fillColor = u'red (named)'
+3.1655 	EXP 	leftcue2: lineColor = u'red (named)'
+3.1655 	EXP 	rightcue2: fillColor = u'blue (named)'
+3.1655 	EXP 	rightcue2: lineColor = u'blue (named)'
+3.1655 	EXP 	targetframe: autoDraw = True
+3.6823 	EXP 	upcue2: autoDraw = True
+3.6823 	EXP 	downcue2: autoDraw = True
+3.6823 	EXP 	leftcue2: autoDraw = True
+3.6823 	EXP 	rightcue2: autoDraw = True
+4.6664 	EXP 	upcue2: autoDraw = False
+4.6664 	EXP 	downcue2: autoDraw = False
+4.6664 	EXP 	leftcue2: autoDraw = False
+4.6664 	EXP 	rightcue2: autoDraw = False
+4.6666 	EXP 	window1: recordFrameIntervals = False
+4.6826 	EXP 	window1: recordFrameIntervals = False
+6.4686 	DATA 	Keypress: escape
+0.3103 	WARNING 	Movie2 stim could not be imported and won't be available
+2.9349 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0xf8e3300>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.9349 	EXP 	window1: recordFrameIntervals = False
+3.1001 	EXP 	window1: recordFrameIntervals = True
+3.2839 	EXP 	window1: recordFrameIntervals = False
+3.4449 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+3.4977 	EXP 	Created instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+3.4981 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-1.5,  1.5],
+       [ 1.5,  1.5],
+       [ 1.5, -1.5],
+       [-1.5, -1.5]])
+3.4995 	EXP 	Created targetcontainer = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetcontainer', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.4999 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5020 	EXP 	Created upcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-1.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue', opacity=1.0, ori=array(0.0), pos=array([ 0.,  1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5024 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5045 	EXP 	Created downcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue', opacity=1.0, ori=array(0.0), pos=array([ 0., -1.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5048 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5069 	EXP 	Created leftcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue', opacity=1.0, ori=array(0.0), pos=array([-1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5073 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5094 	EXP 	Created rightcue = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue', opacity=1.0, ori=array(0.0), pos=array([ 1.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5097 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5118 	EXP 	Created targetbox = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5122 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-10.5,  10.5],
+       [ 10.5,  10.5],
+       [ 10.5, -10.5],
+       [-10.5, -10.5]])
+3.5134 	EXP 	Created targetframe = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=u'grey', fillColorSpace='named', fillRGB=array([ 128.,  128.,  128.]), interpolate=True, lineColor=u'black', lineColorSpace='named', lineRGB=array([ 0.,  0.,  0.]), lineWidth=1, name='targetframe', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5137 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5158 	EXP 	Created targetbox2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-2.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='targetbox2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5162 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5185 	EXP 	Created upcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-3.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='upcue2', opacity=1.0, ori=array(0.0), pos=array([  0.,  10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5190 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5213 	EXP 	Created downcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-4.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='downcue2', opacity=1.0, ori=array(0.0), pos=array([  0., -10.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5219 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5243 	EXP 	Created leftcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-5.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='leftcue2', opacity=1.0, ori=array(0.0), pos=array([-10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5247 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x297a630>: vertices = array([[-0.25,  0.25],
+       [ 0.25,  0.25],
+       [ 0.25, -0.25],
+       [-0.25, -0.25]])
+3.5268 	EXP 	Created rightcue2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-6.0, fillColor=array([ 1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([ 1.,  1.,  1.]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='rightcue2', opacity=1.0, ori=array(0.0), pos=array([ 10.,   0.]), size=array([ 1.,  1.]), units='deg', vertices=ndarray(...), win=Window(...))
+3.5334 	EXP 	instruction: autoDraw = True
+4.4584 	DATA 	Keypress: return
+4.4740 	EXP 	Imported trail1.xlsx as conditions, 48 conditions, 6 params
+4.4745 	EXP 	Created sequence: fullRandom, trialTypes=48, nReps=1, seed=None
+4.5475 	EXP 	New trial (rep=0, index=0): {u'downbox': u'blue', u'targettest': u'blue', u'corrAns': u'up', u'upbox': u'green', u'rightbox': u'yellow', u'leftbox': u'red'}
+4.5684 	EXP 	instruction: autoDraw = False
+4.5684 	EXP 	upcue: lineColor = u'green (named)'
+4.5684 	EXP 	upcue: fillColor = u'green (named)'
+4.5684 	EXP 	downcue: lineColor = u'blue (named)'
+4.5684 	EXP 	downcue: fillColor = u'blue (named)'
+4.5684 	EXP 	leftcue: lineColor = u'red (named)'
+4.5684 	EXP 	leftcue: fillColor = u'red (named)'
+4.5684 	EXP 	rightcue: lineColor = u'yellow (named)'
+4.5684 	EXP 	rightcue: fillColor = u'yellow (named)'
+4.5684 	EXP 	targetbox: lineColor = u'blue (named)'
+4.5684 	EXP 	targetbox: fillColor = u'blue (named)'
+4.5684 	EXP 	targetcontainer: autoDraw = True
+5.0678 	EXP 	upcue: autoDraw = True
+5.0678 	EXP 	downcue: autoDraw = True
+5.0678 	EXP 	leftcue: autoDraw = True
+5.0678 	EXP 	rightcue: autoDraw = True
+6.0525 	EXP 	window1: recordFrameIntervals = False
+6.0684 	EXP 	upcue: autoDraw = False
+6.0684 	EXP 	downcue: autoDraw = False
+6.0684 	EXP 	leftcue: autoDraw = False
+6.0684 	EXP 	rightcue: autoDraw = False
+6.0685 	EXP 	window1: recordFrameIntervals = False
+7.8544 	DATA 	Keypress: down
+8.0861 	EXP 	targetbox: autoDraw = True
+11.2464 	DATA 	Keypress: down
+11.2480 	EXP 	New trial (rep=0, index=1): {u'downbox': u'blue', u'targettest': u'green', u'corrAns': u'down', u'upbox': u'green', u'rightbox': u'red', u'leftbox': u'yellow'}
+11.2627 	EXP 	targetcontainer: autoDraw = False
+11.2627 	EXP 	upcue: autoDraw = False
+11.2627 	EXP 	downcue: autoDraw = False
+11.2627 	EXP 	leftcue: autoDraw = False
+11.2627 	EXP 	rightcue: autoDraw = False
+11.2627 	EXP 	targetbox: autoDraw = False
+11.2627 	EXP 	upcue: lineColor = u'green (named)'
+11.2627 	EXP 	upcue: fillColor = u'green (named)'
+11.2627 	EXP 	downcue: lineColor = u'blue (named)'
+11.2627 	EXP 	downcue: fillColor = u'blue (named)'
+11.2627 	EXP 	leftcue: lineColor = u'yellow (named)'
+11.2627 	EXP 	leftcue: fillColor = u'yellow (named)'
+11.2627 	EXP 	rightcue: lineColor = u'red (named)'
+11.2627 	EXP 	rightcue: fillColor = u'red (named)'
+11.2627 	EXP 	targetbox: lineColor = u'green (named)'
+11.2627 	EXP 	targetbox: fillColor = u'green (named)'
+11.2627 	EXP 	targetcontainer: autoDraw = True
+11.7797 	EXP 	upcue: autoDraw = True
+11.7797 	EXP 	downcue: autoDraw = True
+11.7797 	EXP 	leftcue: autoDraw = True
+11.7797 	EXP 	rightcue: autoDraw = True
+12.7635 	EXP 	upcue: autoDraw = False
+12.7635 	EXP 	downcue: autoDraw = False
+12.7635 	EXP 	leftcue: autoDraw = False
+12.7635 	EXP 	rightcue: autoDraw = False
+12.7636 	EXP 	window1: recordFrameIntervals = False
+12.7804 	EXP 	window1: recordFrameIntervals = False
+14.7983 	EXP 	targetbox: autoDraw = True
+16.7578 	DATA 	Keypress: down
+16.7590 	EXP 	New trial (rep=0, index=2): {u'downbox': u'yellow', u'targettest': u'blue', u'corrAns': u'left', u'upbox': u'red', u'rightbox': u'blue', u'leftbox': u'green'}
+16.7740 	EXP 	targetcontainer: autoDraw = False
+16.7740 	EXP 	upcue: autoDraw = False
+16.7740 	EXP 	downcue: autoDraw = False
+16.7740 	EXP 	leftcue: autoDraw = False
+16.7740 	EXP 	rightcue: autoDraw = False
+16.7740 	EXP 	targetbox: autoDraw = False
+16.7740 	EXP 	upcue: lineColor = u'red (named)'
+16.7740 	EXP 	upcue: fillColor = u'red (named)'
+16.7740 	EXP 	downcue: lineColor = u'yellow (named)'
+16.7740 	EXP 	downcue: fillColor = u'yellow (named)'
+16.7740 	EXP 	leftcue: lineColor = u'green (named)'
+16.7740 	EXP 	leftcue: fillColor = u'green (named)'
+16.7740 	EXP 	rightcue: lineColor = u'blue (named)'
+16.7740 	EXP 	rightcue: fillColor = u'blue (named)'
+16.7740 	EXP 	targetbox: lineColor = u'blue (named)'
+16.7740 	EXP 	targetbox: fillColor = u'blue (named)'
+16.7740 	EXP 	targetcontainer: autoDraw = True
+17.2910 	EXP 	upcue: autoDraw = True
+17.2910 	EXP 	downcue: autoDraw = True
+17.2910 	EXP 	leftcue: autoDraw = True
+17.2910 	EXP 	rightcue: autoDraw = True
+18.2748 	EXP 	upcue: autoDraw = False
+18.2748 	EXP 	downcue: autoDraw = False
+18.2748 	EXP 	leftcue: autoDraw = False
+18.2748 	EXP 	rightcue: autoDraw = False
+18.2749 	EXP 	window1: recordFrameIntervals = False
+18.2916 	EXP 	window1: recordFrameIntervals = False
+20.3096 	EXP 	targetbox: autoDraw = True
+31.2914 	DATA 	Keypress: left
+31.3077 	EXP 	New trial (rep=0, index=3): {u'downbox': u'red', u'targettest': u'yellow', u'corrAns': u'right', u'upbox': u'green', u'rightbox': u'blue', u'leftbox': u'yellow'}
+31.3232 	EXP 	targetcontainer: autoDraw = False
+31.3232 	EXP 	upcue: autoDraw = False
+31.3232 	EXP 	downcue: autoDraw = False
+31.3232 	EXP 	leftcue: autoDraw = False
+31.3232 	EXP 	rightcue: autoDraw = False
+31.3232 	EXP 	targetbox: autoDraw = False
+31.3232 	EXP 	upcue: lineColor = u'green (named)'
+31.3232 	EXP 	upcue: fillColor = u'green (named)'
+31.3232 	EXP 	downcue: lineColor = u'red (named)'
+31.3232 	EXP 	downcue: fillColor = u'red (named)'
+31.3232 	EXP 	leftcue: lineColor = u'yellow (named)'
+31.3232 	EXP 	leftcue: fillColor = u'yellow (named)'
+31.3232 	EXP 	rightcue: lineColor = u'blue (named)'
+31.3232 	EXP 	rightcue: fillColor = u'blue (named)'
+31.3232 	EXP 	targetbox: lineColor = u'yellow (named)'
+31.3232 	EXP 	targetbox: fillColor = u'yellow (named)'
+31.3232 	EXP 	targetcontainer: autoDraw = True
+31.8400 	EXP 	upcue: autoDraw = True
+31.8400 	EXP 	downcue: autoDraw = True
+31.8400 	EXP 	leftcue: autoDraw = True
+31.8400 	EXP 	rightcue: autoDraw = True
+32.8239 	EXP 	upcue: autoDraw = False
+32.8239 	EXP 	downcue: autoDraw = False
+32.8239 	EXP 	leftcue: autoDraw = False
+32.8239 	EXP 	rightcue: autoDraw = False
+32.8240 	EXP 	window1: recordFrameIntervals = False
+32.8407 	EXP 	window1: recordFrameIntervals = False
+34.8587 	EXP 	targetbox: autoDraw = True
+104.5217 	DATA 	Keypress: left
+104.5229 	EXP 	New trial (rep=0, index=4): {u'downbox': u'green', u'targettest': u'red', u'corrAns': u'right', u'upbox': u'blue', u'rightbox': u'yellow', u'leftbox': u'red'}
+104.5354 	EXP 	targetcontainer: autoDraw = False
+104.5354 	EXP 	upcue: autoDraw = False
+104.5354 	EXP 	downcue: autoDraw = False
+104.5354 	EXP 	leftcue: autoDraw = False
+104.5354 	EXP 	rightcue: autoDraw = False
+104.5354 	EXP 	targetbox: autoDraw = False
+104.5354 	EXP 	upcue: lineColor = u'blue (named)'
+104.5354 	EXP 	upcue: fillColor = u'blue (named)'
+104.5354 	EXP 	downcue: lineColor = u'green (named)'
+104.5354 	EXP 	downcue: fillColor = u'green (named)'
+104.5354 	EXP 	leftcue: lineColor = u'red (named)'
+104.5354 	EXP 	leftcue: fillColor = u'red (named)'
+104.5354 	EXP 	rightcue: lineColor = u'yellow (named)'
+104.5354 	EXP 	rightcue: fillColor = u'yellow (named)'
+104.5354 	EXP 	targetbox: lineColor = u'red (named)'
+104.5354 	EXP 	targetbox: fillColor = u'red (named)'
+104.5354 	EXP 	targetcontainer: autoDraw = True
+105.0524 	EXP 	upcue: autoDraw = True
+105.0524 	EXP 	downcue: autoDraw = True
+105.0524 	EXP 	leftcue: autoDraw = True
+105.0524 	EXP 	rightcue: autoDraw = True
+106.0360 	EXP 	upcue: autoDraw = False
+106.0360 	EXP 	downcue: autoDraw = False
+106.0360 	EXP 	leftcue: autoDraw = False
+106.0360 	EXP 	rightcue: autoDraw = False
+106.0361 	EXP 	window1: recordFrameIntervals = False
+106.0529 	EXP 	window1: recordFrameIntervals = False
+108.0705 	EXP 	targetbox: autoDraw = True
+124.0812 	DATA 	Keypress: escape

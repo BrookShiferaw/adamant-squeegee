@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Brook</string>
+		<string>VWM_pilot</string>
+		<string>VWM_task</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>colour_coordinates.csv</string>
+		</array>
+		<array>
+			<string>coordinates2.csv</string>
+		</array>
+		<array>
+			<string>pilot_data.csv</string>
+		</array>
+		<array>
+			<string>sample.csv</string>
+		</array>
+		<array>
+			<string>sample2.csv</string>
+		</array>
+	</array>
+</dict>
+</plist>
